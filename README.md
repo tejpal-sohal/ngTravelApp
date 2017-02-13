@@ -18,9 +18,7 @@ The json set was very large and since there was the freedom of using whatever te
 
 #Screenshots
 
-Inline-style:
 ![alt text](https://github.com/tejpal-sohal/ngTravelApp/blob/master/img/screen1.png "ngTravelApp")
-Inline-style:
 ![alt text](https://github.com/tejpal-sohal/ngTravelApp/blob/master/img/screen2.png "ngTravelApp")
 
 [Application link](http://ngtravelmore.s3-website-eu-west-1.amazonaws.com)
