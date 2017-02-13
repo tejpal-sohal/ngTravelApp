@@ -9,12 +9,12 @@ The result set is reasonably large so we need to be be able to filter the data.
 
 The json set was very large and since there was the freedom of using whatever technologies to create the application I chose the following:
 
-1. Angular JS
-* due to its features to build single page applications very quickly and modules.
-2. BootStrap
-* for out of the box features such style and responsive.
-3. JQuery
-* For some minor smooth animations/transitions (although majority of the animations is taken care of ngAnimate).
+* Angular JS
+  * due to its features to build single page applications very quickly and modules.
+* BootStrap
+  * for out of the box features such style and responsive.
+* JQuery
+  * For some minor smooth animations/transitions (although majority of the animations is taken care of ngAnimate).
 
 #Screenshots
 
