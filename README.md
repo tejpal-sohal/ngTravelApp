@@ -12,9 +12,9 @@ The json set was very large and since there was the freedom of using whatever te
 * Angular JS
   * due to its features to build single page applications very quickly and modules.
 * BootStrap
-  * for out of the box features such style and responsive.
+  * for out of the box features such as styling and responsiveness.
 * JQuery
-  * For some minor smooth animations/transitions (although majority of the animations is taken care of ngAnimate).
+  * for some minor smooth animations/transitions (although majority of the animations is taken care of ngAnimate).
 
 #Screenshots
 
